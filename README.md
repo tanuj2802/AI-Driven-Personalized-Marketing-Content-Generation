@@ -14,3 +14,11 @@ on their transaction patterns. The system should:
 o Email body
 o Marketing tagline
 o Relevant image suggestion
+
+# Data Description
+You will receive a sample dataset containing:
+• Customer transaction data (anonymized)
+• Basic customer information
+• Transaction categories, amounts and timestamps
+
+First we need to unzip data.zip file and store all these 3 files in the data folder 
