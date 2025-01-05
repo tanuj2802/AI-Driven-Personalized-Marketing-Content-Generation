@@ -21,4 +21,4 @@ You will receive a sample dataset containing:
 • Basic customer information
 • Transaction categories, amounts and timestamps
 
-First we need to unzip data.zip file and store all these 3 files in the data folder 
+First we need to unzip data.zip file and store all the 3 files in the data folder 
