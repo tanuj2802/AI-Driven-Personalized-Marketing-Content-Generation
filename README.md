@@ -21,4 +21,7 @@ You will receive a sample dataset containing:
 • Basic customer information
 • Transaction categories, amounts and timestamps
 
-First we need to unzip data.zip file and store all the 3 files in the data folder 
+## Steps to run the notebook
+
+1. First we need to unzip data.zip file and store all the 3 files in the data folder. Use unzip notebook to upload all the provided data files in the data folder
+2. 
