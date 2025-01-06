@@ -28,5 +28,10 @@ You will receive a sample dataset containing:
 3. User Data Analysis: Run the User_Data EDA.ipynb notebook for user data analysis.
 4. Feature Engineering: Execute the Data Processing & Feature Engineering.ipynb to generate relevant features for customer segmentation and behavior analysis.
 5. Customer Segmentation: Run the Clustering.ipynb notebook to perform clustering and define customer profiles based on the segments.
-6. Content Generation: Finally, execute the LLM BASED Content GENERATION.ipynb in Google Colab (ensure runtime is set to T4 GPU) for generating emails, taglines, customer profiles, and Text2Image content. Notebook has multiple examples run as well showchasing LLM model generation [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/username/repository/blob/main/notebook_name.ipynb](https://colab.research.google.com/drive/1Asd_lR6bJ4yYxhgRCtjrr6IqkVltGoKa?usp=sharing))
+6. Content Generation: Finally, execute the LLM BASED Content GENERATION.ipynb in Google Colab (ensure runtime is set to T4 GPU) for generating emails, taglines, customer profiles, and Text2Image content. Notebook has multiple examples run as well showchasing LLM model generation
+## Notebook
+
+- **[View Notebook on GitHub](5. LLM_BASED_Content_Generation.ipynb)**  
+- **[Open in Google Colab](https://colab.research.google.com/drive/1Asd_lR6bJ4yYxhgRCtjrr6IqkVltGoKa?usp=sharing)**  
+
 
