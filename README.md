@@ -11,7 +11,10 @@
 ## Open Notebook in Google Colab
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Asd_lR6bJ4yYxhgRCtjrr6IqkVltGoKa?usp=sharing)
    
+## LLM Notebook
 
+- **[View Notebook on GitHub](5. LLM_BASED_Content_Generation.ipynb)**  
+- **[Open in Google Colab](https://colab.research.google.com/drive/1Asd_lR6bJ4yYxhgRCtjrr6IqkVltGoKa?usp=sharing)**  
 
 
 # Overview
@@ -34,21 +37,4 @@ You will receive a sample dataset containing:
 • Customer transaction data (anonymized)
 • Basic customer information
 • Transaction categories, amounts and timestamps
-
-## Steps to run the notebook
-
-1. Unzip Data: Extract the data.zip file and place the 3 data files in the data folder. Use the unzip notebook to upload the data into the folder.
-2. Transaction Data Analysis: Run the Transaction_Data EDA.ipynb notebook to analyze transaction data.
-3. User Data Analysis: Run the User_Data EDA.ipynb notebook for user data analysis.
-4. Feature Engineering: Execute the Data Processing & Feature Engineering.ipynb to generate relevant features for customer segmentation and behavior analysis.
-5. Customer Segmentation: Run the Clustering.ipynb notebook to perform clustering and define customer profiles based on the segments.
-6. Content Generation: Finally, execute the LLM BASED Content GENERATION.ipynb in Google Colab (ensure runtime is set to T4 GPU) for generating emails, taglines, customer profiles, and Text2Image content. Notebook has multiple examples run as well showchasing LLM model generation. You can open the colab to check content generation across 4 Client id
-## Open Notebook in Google Colab
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Asd_lR6bJ4yYxhgRCtjrr6IqkVltGoKa?usp=sharing)
-   
-## Notebook
-
-- **[View Notebook on GitHub](5. LLM_BASED_Content_Generation.ipynb)**  
-- **[Open in Google Colab](https://colab.research.google.com/drive/1Asd_lR6bJ4yYxhgRCtjrr6IqkVltGoKa?usp=sharing)**  
-
 
